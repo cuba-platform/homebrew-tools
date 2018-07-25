@@ -10,6 +10,6 @@ class CubaCli < Formula
   end
 
   test do
-    system "cuba-cli", "--version"
+    system "cuba-cli", "version"
   end
 end
