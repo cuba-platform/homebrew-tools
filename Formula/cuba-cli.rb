@@ -2,8 +2,8 @@
 class CubaCli < Formula
   desc "CUBA Platform Development Command-Line Interface "
   homepage "https://www.cuba-platform.com/"
-  url "https://cuba-platform.bintray.com/tools/cuba-cli/2.1.0/cuba-cli-2.1.0-macos.zip"
-  sha256 "8a31b166fe9e363517553b7c509bc82ce182c2e56a05a86cfe796a58520fe252"
+  url "https://cdn.cuba-platform.com/cuba-cli/2.1.1/cuba-cli-2.1.1-macos.zip"
+  sha256 "5a333a1c083753a301ba2bd98948425e3039898c5316435ea2057bc164491eed"
 
   def install
     prefix.install Dir["*"]
