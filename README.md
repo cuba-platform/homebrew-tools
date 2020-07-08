@@ -1,7 +1,13 @@
 # CUBA Platform Homebrew Tap
 
-Install the CUBA CLI with
+## Install CUBA CLI with:
 
 ```
 $ brew install cuba-platform/tools/cuba-cli
+```
+
+## Install CUBA SDK with:
+
+```
+$ brew install cuba-platform/tools/cuba-sdk
 ```
